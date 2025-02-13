@@ -11,5 +11,4 @@ I have cultivated a deep passion for data, data analysis, and business intellige
 
 <b>Top Repositories</b>
 
-#### sql and tauleau: new_york_city_bike 
-https://github.com/la2n2h/new-york-city-bike/blob/main/README.md
+#### [sql and tauleau: new_york_city_bike ](https://github.com/la2n2h/new-york-city-bike/blob/main/README.md)
