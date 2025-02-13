@@ -9,6 +9,6 @@ I have cultivated a deep passion for data, data analysis, and business intellige
 * 🌍  I'm based in Ho Chi Minh Vietnam
 * 🧠  I'm learning python
 
-<b>Top Repositories</b>
+# Personal Projects
 
 #### [sql and tauleau: new_york_city_bike ](https://github.com/la2n2h/new-york-city-bike/blob/main/README.md)
