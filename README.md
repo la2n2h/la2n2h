@@ -10,7 +10,7 @@ I have cultivated a deep passion for data, data analysis, and business intellige
 ## Personal Projects
 
 ### [New_york_city_bike ](https://github.com/la2n2h/new-york-city-bike/blob/main/README.md)
-##### A fictional bike_share company in New York city
+#### A fictional bike_share company in New York city
 
 Tools : SQL and Tableau
 
