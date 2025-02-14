@@ -9,7 +9,7 @@ I have cultivated a deep passion for data, data analysis, and business intellige
 
 ## Personal Projects
 
-### [Railway travel company ]((https://github.com/la2n2h/Railway-Travel-Company/blob/main/README.md)
+### [Railway travel company ](https://github.com/la2n2h/Railway-Travel-Company/blob/main/README.md)
 #### A Startup company that will focus on booking railway travel.
 
 Tools : SQL and Tableau
