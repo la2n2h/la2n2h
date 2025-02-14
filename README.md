@@ -16,7 +16,7 @@ Tools : SQL and Tableau
 
 Use this data to make a data-driven recommendation as to which country the business should select to launch its startup.
 
-### [New_york_city_bike ](https://github.com/la2n2h/new-york-city-bike/blob/main/README.md)
+### [New york city bike ](https://github.com/la2n2h/new-york-city-bike/blob/main/README.md)
 #### A fictional bike_share company in New York city
 
 Tools : SQL and Tableau
