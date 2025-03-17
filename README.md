@@ -9,7 +9,7 @@ I have cultivated a deep passion for data, data analysis, and business intellige
 
 ## Personal Projects
 
-### [ Insurance Cost] (https://github.com/la2n2h/Insurance-Cost-Analysis)
+### [Insurance Cost](https://github.com/la2n2h/Insurance-Cost-Analysis)
 ####
 
 Tools: Python and Tableau
