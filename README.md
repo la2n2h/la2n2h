@@ -4,8 +4,8 @@ Hi ! My name is Lan Anh Nguyen
 
 I have cultivated a deep passion for data, data analysis, and business intelligence. My career has been driven by a fascination with transforming raw data into actionable insights that drive strategic decision-making and business growth. With a strong foundation in sales planning and a keen eye for detail, I thrive on leveraging data to uncover trends, optimize processes, and deliver impactful results. My enthusiasm for data-driven solutions continues to fuel my commitment to excellence in every project I undertake.
 
-* 🌍  I'm based in Ho Chi Minh Vietnam
-* 🧠  I'm learning ML
+* 🌍 Tableau | Python | MySQL | Excel
+* 🧠  Machine Learning (learning)
 
 ## Personal Projects
 
