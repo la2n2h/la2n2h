@@ -9,6 +9,8 @@ I have cultivated a deep passion for data, data analysis, and business intellige
 
 ## Personal Projects
 
+### [Customer Behavioranalysis](https://github.com/la2n2h/A-Behavioral-Analysis-of-Customer-Spending)
+
 ### [Insurance Cost](https://github.com/la2n2h/Insurance-Cost-Analysis)
 ####
 
