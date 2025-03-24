@@ -9,14 +9,19 @@ I have cultivated a deep passion for data, data analysis, and business intellige
 
 ## Personal Projects
 
-### [Customer Behavioranalysis](https://github.com/la2n2h/A-Behavioral-Analysis-of-Customer-Spending)
+### [Customer Behavior Analysis](https://github.com/la2n2h/A-Behavioral-Analysis-of-Customer-Spending)
+A retail company in US
+
+Tools: Python and Tableau
+
+Clean data | Data Analysis | Insights and Recommendation | Dashboard
 
 ### [Insurance Cost](https://github.com/la2n2h/Insurance-Cost-Analysis)
 ####
 
 Tools: Python and Tableau
 
-Clean data | Data Analysis | Cost Prediction
+Clean data | Data Analysis | Cost Prediction | Dashboard
 
 ### [Railway travel company ](https://github.com/la2n2h/Railway-Travel-Company/blob/main/README.md)
 #### A Startup company that will focus on booking railway travel.
